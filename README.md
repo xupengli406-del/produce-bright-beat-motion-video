@@ -11,3 +11,9 @@
 先读 [Skill](SKILL.md)。四份参考依次说明 [剪辑与检查](references/剪辑与检查.md)、[同款伴奏与节拍](references/同款伴奏.md)、[封面与交付](references/封面与交付.md) 和 [七种剪法案例](references/案例-七种剪法.md)。
 
 默认配乐为 [骨头男 WAV](assets/gutounan-bgm.wav)，可直接下载，也随仓库一起打包。示范的节拍和混音方法见上面的伴奏说明。大家也可以按本期内容选择 2D、3D、实拍和文字动效，把重音落在真正讲清信息的动作上。
+
+## 完整视频案例
+
+[下载《AI 剪辑绝招大公开》完整横版](https://github.com/xupengli406-del/produce-bright-beat-motion-video/releases/download/v1.0.0/ai-editing-seven-ways-1080p.mp4) · [GitHub Release](https://github.com/xupengli406-del/produce-bright-beat-motion-video/releases/tag/v1.0.0)
+
+7 分 43 秒，1920 × 1080，含中英字幕。可对照 [七种剪法案例](references/案例-七种剪法.md) 观察画面、配乐和案例原声如何交接。
