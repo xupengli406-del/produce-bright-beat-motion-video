@@ -4,10 +4,10 @@
 
 ## 使用
 
-把本仓库作为 `produce-bright-beat-motion-video` 文件夹放入 Codex 的 Skills 目录。在制作对话里附口播、案例和本次可用的伴奏，再发这句：
+把本仓库作为 `produce-bright-beat-motion-video` 文件夹放入 Codex 的 Skills 目录。在制作对话里附口播和案例，再发这句：
 
-> 用 $produce-bright-beat-motion-video 把我的口播和真实案例剪成明亮、高燃、卡点的动画视频。
+> 用 $produce-bright-beat-motion-video 把我的口播和真实案例剪成明亮、高燃、卡点的动画视频，配乐用骨头男 WAV。
 
 先读 [Skill](SKILL.md)。四份参考依次说明 [剪辑与检查](references/剪辑与检查.md)、[同款伴奏与节拍](references/同款伴奏.md)、[封面与交付](references/封面与交付.md) 和 [七种剪法案例](references/案例-七种剪法.md)。
 
-公开仓库附示范曲的节拍和混音方法。制作时使用自己有权使用的音轨。大家也可以按本期内容选择 2D、3D、实拍和文字动效，把重音落在真正讲清信息的动作上。
+默认配乐为 [骨头男 WAV](assets/gutounan-bgm.wav)，可直接下载，也随仓库一起打包。示范的节拍和混音方法见上面的伴奏说明。大家也可以按本期内容选择 2D、3D、实拍和文字动效，把重音落在真正讲清信息的动作上。
